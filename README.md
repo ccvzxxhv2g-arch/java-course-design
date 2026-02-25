@@ -1,3 +1,7 @@
+本项目是面向大二 Java 课程设计的图书管理系统，基于原生 Java + MySQL 开发，核心实现图书、用户、借阅记录的全生命周期管理，无框架依赖，仅使用 JDBC 完成数据库交互。
+
+
+
 请添加文件夹中mysql-connector-j-9.2.0依赖来使用
 登录界面
 <img width="824" height="518" alt="屏幕截图 2026-02-25 140134" src="https://github.com/user-attachments/assets/e30e6ab7-393b-4616-ba08-cbd9d912edd6" />
